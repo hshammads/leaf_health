@@ -1,6 +1,7 @@
 # leaf_health
 
 Data obtained from: https://data.mendeley.com/datasets/hb74ynkjcn/5
+
 All the images are being ignored for GitHub upload due to their size being too large.
 However, they are being saved and used in local directory.
 
