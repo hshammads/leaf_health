@@ -1,0 +1,25 @@
+.htaccess
+css.php
+rpc/
+sites/site*/admin/
+sites/site*/private/
+sites/site*/public/admin/
+sites/site*/public/setup/
+sites/site*/public/theme/
+textpattern/
+HISTORY.txt
+README.txt
+Dataset/
+"Project Code"/"All Data"/
+"Project Code"/"Preprocessed Data"/
+"Project Code"/"Testing Data"/
+"Project Code"/"Training Data"/
+"Project Code"/"Validation Data"/
+"Project Code"/"Preprocessed Data_Resized"
+"Project Code"/"Preprocessed Data - Categorized"
+"Project Code"/"Preprocessed Data - Resized and Categorized"
+"Project Code"/"img_hog_linear_model_bkup_11242023.p"
+"Project Code"/"img_hog_linear_model.p"
+"Project Code"/"img_hog_poly_model.p"
+*.p
+*JPG
